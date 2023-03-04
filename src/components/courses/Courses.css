@@ -1,0 +1,32 @@
+.course{
+    padding:20px;
+    border: 2px solid blue;
+    /* width: fit-content; */
+    width: 50%;
+    height: 80%;
+    background-color: antiquewhite;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 10% !important;
+    font-size: x-large;
+ }
+ 
+ select {
+  width: 200px;
+  padding: 12px;
+  border: 0 !important;
+  background-color: rgb(233, 231, 209);
+  border-radius: 10px;
+ }
+
+ h1{
+    margin: 1em 0 0.5em 0;
+    color: #343434;
+    line-height: 20px;
+    font-family: 'Orienta', sans-serif;
+   }
+   
+   span{
+      color: brown;
+   }
+    
